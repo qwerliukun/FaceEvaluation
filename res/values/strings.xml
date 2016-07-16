@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">人脸对比</string>
+    <string name="action_infos">關於</string>
+    <string name="btn_pick_model">1.图一</string>
+    <string name="btn_pick_photo">2.图二</string>
+    <string name="btn_detect">3.检测</string>
+	<string name="btn_evaluation">4.对比</string>
+</resources>
